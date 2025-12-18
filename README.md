@@ -1,4 +1,5 @@
 # BMW-Car-Sales-Analysis-Dashboard
+..................................
 # Project Title / Headline : BMW Car Sales Analysis Dashboard using Power BI
 - 🎬 Analyzed BMW car sales data to identify trends across models, variants, sales volume, revenue, regions, and time periods
 - 📊 Delivered interactive insights highlighting top-selling models, revenue drivers, regional demand, and growth patterns
@@ -56,4 +57,4 @@ Q20. What overall sales and demand trends can be identified from the dashboard?
 - 💰 Pricing & Revenue Insights
 
 # Dashboard Screenshot :
-🔗
+🔗 https://github.com/Chaitanya-kumar13/BMW-Car-Sales-Analysis-Dashboard-/blob/main/BMW.png
